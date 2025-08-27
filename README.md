@@ -7,7 +7,8 @@ Background:
 - Master's Degree in Structural Engineering from Kansas State University (USA)
 - Bachelor's Degree in Architectural Engineering from Kansas State University (USA)
 
-Thesis Collaboration with VSL International: 🔭 Implementing Data Science in Construction Safety Management as my thesis topic. I have created Machine learning algorithims to predict accidents on site ⚠️👷‍♂️.
+Thesis Collaboration with VSL International: 
+🔭 Implementing Data Science in Construction Safety Management as my thesis topic. I have created Machine learning algorithims to predict accidents on site ⚠️👷‍♂️.
 
 I have done several fun and creative projects:
 
