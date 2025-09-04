@@ -14,7 +14,7 @@ Work Experience (Data Related):
 
 - Data Science Engineer at Endress Hauser (Industrial process engineering)
 - Digitalization at SwissCharge (Charging Network for E-Mobility)
-- Data Science at Swiss Data Science Center (Machine Learning Research Center)
+- Data Science Intern at Swiss Data Science Center (Machine Learning Research Center)
 - Senior Design Engineer at VSL International (Construction)
 
 Thesis Collaboration with VSL International: 
